@@ -5,8 +5,14 @@ data.csv
 # macOS
 *.DS_Store
 
+# VS Code
+*.vscode/
+
 # Docs
 enunciado.pdf
+
+# Test
+test.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
