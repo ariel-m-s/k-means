@@ -38,3 +38,5 @@ centroids, clusters = model.cluster(data, n_clusters=4, n_iter=10)
 
 - `n_clusters`: The number of clusters the algorithm partitions the dataset into.
 - `n_iter`: The number of iterations the algorithm goes through to iteratively update cluster assignments and centroids.
+
+Adjusting these parameters allows you to control the granularity of clustering and the convergence of the algorithm. Experimenting with different values can impact the quality and efficiency of the clustering results.
