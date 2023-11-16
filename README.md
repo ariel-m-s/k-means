@@ -4,7 +4,7 @@
 
 This repository contains a Python implementation of the K-Means clustering algorithm. K-Means is a widely used unsupervised machine learning algorithm for partitioning a dataset into a specified number (k) of clusters, based on similarity. This implementation utilizes Python 3 and Numpy for the numerical operations.
 
-## Files
+## Files and structure
 
 1. `kmeans.py`
 
